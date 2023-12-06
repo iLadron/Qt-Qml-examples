@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CommonResources/qml/CarrotButton.qml</file>
+        <file>CommonResources/qml/CarrotColorImage.qml</file>
+        <file>CommonResources/images/png-icon.png</file>
+    </qresource>
+</RCC>
