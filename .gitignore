@@ -1,6 +1,8 @@
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
 
+Qt-Qml-examples
+
 *~
 *.autosave
 *.a
@@ -32,6 +34,7 @@ qrc_*.cpp
 Thumbs.db
 *.res
 *.rc
+*.stash
 /.qmake.cache
 /.qmake.stash
 
